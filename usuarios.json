@@ -1,3 +1,5 @@
 {
-  "autorizados": ["marc"]
+  "usuarios": [
+    { "nombre": "marc", "clave": "Mxj100431120811" },
+  ]
 }
