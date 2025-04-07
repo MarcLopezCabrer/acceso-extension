@@ -1,5 +1,6 @@
 {
-  "usuarios": [
-    { "nombre": "1", "clave": "1" }
+  "autorizados": [
+    { "usuario": "marc", "password": "1234" },
+    { "usuario": "juan", "password": "abcd" }
   ]
 }
