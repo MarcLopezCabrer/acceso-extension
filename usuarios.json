@@ -2,6 +2,7 @@
   "autorizados": [
     { "usuario": "marc", "password": "1234" },
     { "usuario": "nadir", "password": "ermex123" },
-    { "usuario": "aaron", "password": "ermex123" }
+    { "usuario": "aaron", "password": "ermex123" },
+    { "usuario": "Pere", "password": "1234" }
   ]
 }
