@@ -1,11 +1,39 @@
 {
   "autorizados": [
-    { "usuario": "marc", "password": "1234" },
-    { "usuario": "nadir", "password": "ermex123" },
-    { "usuario": "aaron", "password": "ermex" },
-    { "usuario": "Pere", "password": "pere1234" },
-    { "usuario": "Davide", "password": "Spribo25" },
-    { "usuario": "Dani", "password": "1234" },
-    { "usuario": "Pedro", "password": "Ngi_2477" }    
+    {
+      "usuario": "marc",
+      "password": "1234",
+      "uuid": "e6b9e94e-d722-4af8-b90f-c96a7ce0ddb7"
+    },
+    {
+      "usuario": "nadir",
+      "password": "ermex123",
+      "uuid": "61c05c99-8a65-4c9c-86b4-31df5847c431"
+    },
+    {
+      "usuario": "aaron",
+      "password": "ermex",
+      "uuid": "e8e22971-50d6-44c5-9c96-e62680c80dec"
+    },
+    {
+      "usuario": "Pere",
+      "password": "pere1234",
+      "uuid": "6bb3e6f6-f4fd-4dd6-90ea-592d58dd67fc"
+    },
+    {
+      "usuario": "Davide",
+      "password": "Spribo25",
+      "uuid": "555bf96e-049c-4b04-a8de-5e8d6f53ac7e"
+    },
+    {
+      "usuario": "Dani",
+      "password": "1234",
+      "uuid": "67c9bc49-f176-4bf6-ac55-5f3b311add1d"
+    },
+    {
+      "usuario": "Pedro",
+      "password": "Ngi_2477",
+      "uuid": "52463efc-c1d2-426e-8e77-b0b0a51fe0f2"
+    }
   ]
 }
