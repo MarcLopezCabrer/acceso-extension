@@ -1,5 +1,39 @@
-(function(){
-  const _json_b64 = "eyJhdXRvcml6YWRvcyI6W3sidXN1YXJpbyI6Im1hcmMiLCJwYXNzd29yZCI6IjEyMzQiLCJ1dWlkIjoiZTZiOWU5NGUtZDcyMi00YWY4LWI5MGYtYzk2YTdjZTBkZGI3In0seyJ1c3VhcmlvIjoibmFkaXIiLCJwYXNzd29yZCI6ImVybWV4MTIzIiwidXVpZCI6IjYxYzA1Yzk5LThhNjUtNGM5Yy04NmI0LTMxZGY1ODQ3YzQzMSJ9LHsidXN1YXJpbyI6ImFhcm9uIiwicGFzc3dvcmQiOiJlcm1leCIsInV1aWQiOiJlOGUyMjk3MS01MGQ2LTQ0YzUtOWM5Ni1lNjI2ODBjODBkZWMifSx7InVzdWFyaW8iOiJQZXJlIiwicGFzc3dvcmQiOiJwZXJlMTIzNCIsInV1aWQiOiI2YmIzZTZmNi1mNGZkLTRkZDYtOTBlYS01OTJkNThkZDY3ZmMifSx7InVzdWFyaW8iOiJEYXZpZGUiLCJwYXNzd29yZCI6IlNwcmlibzI1IiwidXVpZCI6IjU1NWJmOTZlLTA0OWMtNGIwNC1hOGRlLTVlOGQ2ZjUzYWM3ZSJ9LHsidXN1YXJpbyI6IkRhbmkiLCJwYXNzd29yZCI6IjEyMzQiLCJ1dWlkIjoiNjdjOWJjNDktZjE3Ni00YmY2LWFjNTUtNWYzYjMxMWFkZDFkIn0seyJ1c3VhcmlvIjoiUGVkcm8iLCJwYXNzd29yZCI6Ik5naV8yNDc3IiwidXVpZCI6IjUyNDYzZWZjLWMxZDItNDI2ZS04ZTc3LWIwYjBhNTFmZTBmMiJ9XX0=";
-  const _json_data = JSON.parse(atob(_json_b64));
-  window.usuariosAutorizados = _json_data;
-})();
+{
+  "autorizados": [
+    {
+      "usuario": "marc",
+      "password": "1234",
+      "uuid": "e6b9e94e-d722-4af8-b90f-c96a7ce0ddb7"
+    },
+    {
+      "usuario": "nadir",
+      "password": "ermex123",
+      "uuid": "61c05c99-8a65-4c9c-86b4-31df5847c431"
+    },
+    {
+      "usuario": "aaron",
+      "password": "ermex",
+      "uuid": "e8e22971-50d6-44c5-9c96-e62680c80dec"
+    },
+    {
+      "usuario": "Pere",
+      "password": "pere1234",
+      "uuid": "6bb3e6f6-f4fd-4dd6-90ea-592d58dd67fc"
+    },
+    {
+      "usuario": "Davide",
+      "password": "Spribo25",
+      "uuid": "555bf96e-049c-4b04-a8de-5e8d6f53ac7e"
+    },
+    {
+      "usuario": "Dani",
+      "password": "1234",
+      "uuid": "67c9bc49-f176-4bf6-ac55-5f3b311add1d"
+    },
+    {
+      "usuario": "Pedro",
+      "password": "Ngi_2477",
+      "uuid": "52463efc-c1d2-426e-8e77-b0b0a51fe0f2"
+    }
+  ]
+}
